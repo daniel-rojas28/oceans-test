@@ -10,6 +10,7 @@ import { getWeatherCondition } from "@/utils/weatherUtils";
 export default function PropertyDetailsPage({ params: paramsPromise }: { params: Promise<{ id: string }> }) {
   const router = useRouter();
   const [params, setParams] = useState<{ id: string } | null>(null);
+  /* eslint-disable-next-line   @typescript-eslint/no-explicit-any */
   const [weather, setWeather] = useState<any>(null);
 
   useEffect(() => {
@@ -24,11 +25,12 @@ export default function PropertyDetailsPage({ params: paramsPromise }: { params:
 
   useEffect(() => {
     if (params && !property) {
-      router.push("/properties"); // Redirect to properties list if property not found
+      router.push("/properties");
     } else if (property) {
       fetchWeather(property.latitude!, property.longitude!);
     }
-  }, [params, property]);
+  }, [params, property, router]);
+  
 
   const fetchWeather = async (latitude: number, longitude: number) => {
     try {

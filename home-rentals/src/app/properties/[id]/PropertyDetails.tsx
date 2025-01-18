@@ -1,5 +1,4 @@
 import { useState } from "react";
-
 interface PropertyDetailsProps {
   name: string;
   address: string;
