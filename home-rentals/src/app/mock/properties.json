@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "Cozy Apartment",
+    "address": "123 Main St, Cityville",
+    "description": "A cozy apartment in the heart of the city.",
+    "price": "$100/night",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/447458576.jpg?k=f01e16980ac4384a6ba6a606a91d572f27fd8b05535cc49399e07d6678976e30&o=&hp=1",
+      "https://www.thespruce.com/thmb/S8tYKXzFhGjDB_X6BHXZyPMhejs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rsw2320h1548-aafef038b55e4ca5ac3f2ed49337971a.jpeg"
+    ],
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  {
+    "id": 2,
+    "name": "Beachfront Villa",
+    "address": "456 Ocean Dr, Beachtown",
+    "description": "A luxurious villa with stunning ocean views and private beach access.",
+    "price": "$250/night",
+    "images": [
+      "https://media.vrbo.com/lodging/101000000/100470000/100467700/100467624/w1024h682x0y1-ef0b52e3.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill"
+    ],
+    "latitude": 26.1224,
+    "longitude": -80.1373
+  },
+  {
+    "id": 3,
+    "name": "Mountain Cabin",
+    "address": "789 Alpine Rd, Mountainview",
+    "description": "A rustic cabin in the mountains, perfect for a quiet retreat.",
+    "price": "$150/night",
+    "images": [
+      "https://www.idyllwildvacationcabins.com/uploads/1/1/9/0/119047325/idyllwild-vacaiton-cabins-mountain-view-mountain-view_orig.jpg"
+    ],
+    "latitude": 39.7392,
+    "longitude": -104.9903
+  },
+  {
+    "id": 4,
+    "name": "Urban Studio",
+    "address": "101 City Blvd, Metropolis",
+    "description": "A modern studio in the heart of the city, ideal for business travelers.",
+    "price": "$120/night",
+    "images": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/548545380.jpg?k=83b3cb76142e2474b9da4738bcf2624f134eb1dbad6aaedafb1dd109d49fcd79&o=&hp=1"
+    ],
+    "latitude": 34.0522,
+    "longitude": -118.2437
+  },
+  {
+    "id": 5,
+    "name": "Lakeside Cottage",
+    "address": "202 Lakeview Dr, Waterside",
+    "description": "A charming lakeside cottage with a beautiful view of the water.",
+    "price": "$200/night",
+    "images": [
+      "https://wpcdn.us-east-1.vip.tn-cloud.net/www.nhhomemagazine.com/content/uploads/data-import/df743971/AD102MaineLakesideCottage1.jpg?etag=%225df6ab03-1417d1%22"
+    ],
+    "latitude": 44.3148,
+    "longitude": -85.6024
+  },
+  {
+    "id": 6,
+    "name": "Luxury Penthouse",
+    "address": "303 Skyline Rd, Uptown",
+    "description": "An exclusive penthouse with panoramic city views and luxury amenities.",
+    "price": "$500/night",
+    "images": [
+      "https://loveincorporated.blob.core.windows.net/contentimages/gallery/bd1025af-e29c-4fcf-b409-16446a83f607-dubai1-sothebys.jpg"
+    ],
+    "latitude": 40.7580,
+    "longitude": -73.9855
+  },
+  {
+    "id": 7,
+    "name": "Country House",
+    "address": "404 Farm Ln, Countryside",
+    "description": "A spacious country house with a large garden and outdoor activities.",
+    "price": "$180/night",
+    "images": [
+      "https://cdn11.bigcommerce.com/s-g95xg0y1db/images/stencil/1280x1280/w/1007-fontanelle-front__72585.original.jpg"
+    ],
+    "latitude": 37.7749,
+    "longitude": -122.4194
+  },
+  {
+    "id": 8,
+    "name": "Desert Retreat",
+    "address": "505 Sand Dune Rd, Oasis",
+    "description": "A unique desert retreat with breathtaking views and tranquility.",
+    "price": "$220/night",
+    "images": [
+      "https://www.aman.com/sites/default/files/2023-04/amangiri_usa_-_camp_sarika_pavilion_outdoor_terrace.jpg"
+    ],
+    "latitude": 36.1719,
+    "longitude": -115.1398
+  }
+]
